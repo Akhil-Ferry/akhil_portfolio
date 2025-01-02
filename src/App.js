@@ -6,6 +6,11 @@ const App = () => {
   return (
     <div>
       <header className="header">
+    <img
+          src="profile.png"
+          alt="Profile"
+          className="profile-photo"
+        />
         <h1>Akhil Pulipaka</h1>
         <a href="mailto:pulipakaakhil@gmail.com" target="_blank" rel="noopener noreferrer">Pulipakaakhil@gmail.com</a>
         <div className="links">
